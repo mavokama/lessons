@@ -1,0 +1,27 @@
+p {
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+.raduga{
+	font-size: 40pt
+}
+
+.raduga-red{
+	color: red;
+}
+.raduga-orange{
+	color: orange;
+}
+.raduga-yellow{
+	color: yellow;
+}
+.raduga-green{
+	color: green;
+}
+.raduga-light{
+	color: aqua;
+}
+.raduga-blue{
+	color: blue;
+}

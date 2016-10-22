@@ -1,0 +1,47 @@
+.foodlist{
+	font-size: 14
+}
+
+.mainlist .element{
+	color: blue;
+}
+
+.reditem{
+	color: red;
+}
+
+.fruitlist .reditem{
+	font-weight: bold;
+}
+
+.foodlist .reditem{
+	font-style: italic;
+}
+
+.fruitlist li {
+	text-decoration: underline
+}
+
+.fruitlist .reditem{
+	text-decoration: line-through
+
+}
+
+.fruitlist .shmelement{
+	color: green;
+
+}
+
+ul.fruitlist .shmelement.super li{
+	color: orange;
+}
+
+ul .reditem.puper li{
+	color: purple
+}
+ul.mainlist .super.reditem{
+	color:purple;
+}
+body ul.maillist li ul.fruitlist li.puper{
+	font-size: 30px
+}
